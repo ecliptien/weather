@@ -1,0 +1,20 @@
+{
+    "weather": [
+      {
+        "id": 501,
+        "main": "Rain",
+        "icon": "10d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 298.48,
+      "feels_like": 298.74
+    },
+    
+    "id": 3163858,
+    "name": "Zocca",
+    "cod": 200
+    
+  
+}
